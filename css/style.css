@@ -188,7 +188,7 @@ cursor: pointer;}
 }
 @media all and (min-width:1000px) and (max-width:1240px){
     .spot{position: absolute;left: 0; right: 0; margin: 0 auto; font-size: 14px;}
-    .header{border-radius: 0;}
+    .header{border-radius: 0; width:100%}
     .contents{border-radius: 0; width: 100%; border-left: none; height: 1400px;}
     .logo1{display: none;}
     .logo2{display: block; position: absolute; top: 30px; left: 37%;}
@@ -217,7 +217,7 @@ cursor: pointer;}
 @media all and (min-width:799px) and (max-width:999px){
     .spot{position: absolute;left: 0; right: 0; margin: 0 auto; font-size: 14px;
     display: none;}
-    .header{border-radius: 0;border: none;}
+    .header{border-radius: 0;border: none;width:100%}
     .contents{border-radius: 0; width: 100%;border: none;}
     .menu{width: 140px;}
     .logo1{display: none;}
@@ -240,7 +240,7 @@ cursor: pointer;}
 @media all and (max-width:800px){
     .spot{position: absolute;left: 0; right: 0; margin: 0 auto; font-size: 14px;
         display: none;}
-        .header{border-radius: 0; border: none;}
+        .header{border-radius: 0; border: none;width:100%}
         .contents{border-radius: 0; width: 100%; border: none;}
         .menu{width: 140px;}
         .logo1{display: none;}
