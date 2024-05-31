@@ -1,6 +1,6 @@
 @charset "utf-8";
 
-.header{width: 1240px; height: 100px; margin: 0 auto; background-color: #ffffff; 
+.header{max-width: 1240px; height: 100px; margin: 0 auto; background-color: #ffffff; 
 display: flex; justify-content: space-between; align-items: center;
 border-radius: 0 0 30px 30px; border: 3px solid #ff6b6b; border-top: #fff; }
 
